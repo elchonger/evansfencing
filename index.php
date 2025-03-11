@@ -3,6 +3,8 @@
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <title>Evans Fencing - Skilled, experienced outdoor specialists operating in Kent.</title>  
+        <meta name="description" content="Family owned business with a wealth of knowledge and experience in all aspects of landscaping." />
         <meta property="og:title" content="Evans Fencing - Skilled, experienced outdoor specialists operating in Kent.">
         <meta property="og:description" content="Family owned business with a wealth of knowledge and experience in all aspects of landscaping.">
         <meta property="og:image" content="https://evansfencing.uk/assets/img/fencing8.jpg">
@@ -108,7 +110,7 @@
                   <!-- Featured Project Row-->
                                 <!-- Row 1-->
                 <div class="row gx-4 mb-5">
-                    <div class="col-lg-4 service-box"><img class="img-fluid services" src="assets/img/wooden-cabin.jpg" alt="Home studios installed by Evans Fencing" />
+                    <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/wooden-cabin.jpg" alt="Home studios installed by Evans Fencing" />
                    
                         <div class="bg-white text-center project">
                             <div class="d-flex">
@@ -122,7 +124,7 @@
                   
                         
                         </div>
-                      <div class="col-lg-4 service-box"><img class="img-fluid services" src="assets/img/fencing5.jpg" alt="Custom fencing and gates by Evans Fencing" />
+                      <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/fencing5.jpg" alt="Custom fencing and gates by Evans Fencing" />
                    
                         <div class="bg-white text-center project">
                             <div class="d-flex">
@@ -136,7 +138,7 @@
                   
                         
                         </div>
-                      <div class="col-lg-4 service-box"><img class="img-fluid services" src="assets/img/astro-turf.jpg" alt="Astro turf fitted by Evans Fencing" />
+                      <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/astro-turf.jpg" alt="Astro turf fitted by Evans Fencing" />
                    
                         <div class="bg-white text-center project">
                             <div class="d-flex">
@@ -155,7 +157,7 @@
                   <!-- Row 1 -->
                      <!-- Row 2-->
                 <div class="row gx-4 mb-5">
-                    <div class="col-lg-4 service-box"><img class="img-fluid services" src="assets/img/garden-clearances.jpg" alt="Garden clearances by Evans Fencing" />
+                    <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/garden-clearances.jpg" alt="Garden clearances by Evans Fencing" />
                    
                         <div class="bg-white text-center project">
                             <div class="d-flex">
@@ -169,7 +171,7 @@
                   
                         
                         </div>
-                      <div class="col-lg-4 service-box"><img class="img-fluid services" src="assets/img/driveway2.jpg" alt="Expertly installed drivways by Evans Fencing" />
+                      <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/driveway2.jpg" alt="Expertly installed drivways by Evans Fencing" />
                    
                         <div class="bg-white text-center project">
                             <div class="d-flex">
@@ -183,7 +185,7 @@
                   
                         
                         </div>
-                      <div class="col-lg-4 service-box"><img class="img-fluid services" src="assets/img/fencing6.jpg" alt="Bespoke decking by Evans Fencing" />
+                      <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/fencing6.jpg" alt="Bespoke decking by Evans Fencing" />
                    
                         <div class="bg-white text-center project">
                             <div class="d-flex">
@@ -202,7 +204,7 @@
                   <!-- Row 2 -->
                             <!-- Row 3-->
                 <div class="row gx-4 mb-5">
-                    <div class="col-lg-4 service-box"><img class="img-fluid services" src="assets/img/digger.jpg" alt="Digger operated by Evans Fencing" />
+                    <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/digger.jpg" alt="Digger operated by Evans Fencing" />
                    
                         <div class="bg-white text-center project">
                             <div class="d-flex">
@@ -220,7 +222,7 @@
                         </div>
                       
                  
-                    <div class="col-lg-4 service-box"><img class="img-fluid services" src="assets/img/secure-fencing.jpg" alt="Secure fencing by Evans Fencing" />
+                    <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/secure-fencing.jpg" alt="Secure fencing by Evans Fencing" />
                    
                         <div class="bg-white text-center project">
                             <div class="d-flex">
@@ -236,7 +238,7 @@
                   
                         
                         </div>
-                       <div class="col-lg-4 service-box"><img class="img-fluid services" src="assets/img/brick-work.jpg" alt="Secure fencing by Evans Fencing" />
+                       <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/brick-work.jpg" alt="Secure fencing by Evans Fencing" />
                    
                         <div class="bg-white text-center project">
                             <div class="d-flex">
@@ -304,66 +306,66 @@
           <ol class="indicator"></ol>
         </div>
            <!-- Gallery controls end-->     
-        <div id="links">
+           <div id="links">
             <div class="row">
                      <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="assets/img/fencing.jpg">
-                            <img class="img-thumb" src="assets/img/fencing.jpg" alt="Stained wooden fence - Evans Fencing" />
+                          <a href="/assets/img/fencing.jpg">
+                            <img class="img-thumb" src="//assets/img/fencing.jpg" alt="Stained wooden fence - Evans Fencing" />
                           </a>
                     </div>
                     <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="assets/img/fencing2.jpg">
-                            <img class="img-thumb" src="assets/img/fencing2.jpg" alt="Six foot wooden fence with concreate board - Evans Fencing" />
+                          <a href="/assets/img/fencing2.jpg">
+                            <img class="img-thumb" src="/assets/img/fencing2.jpg" alt="Six foot wooden fence with concreate board - Evans Fencing" />
                           </a>
                     </div>
                 <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="assets/img/fencing3.jpg">
-                            <img class="img-thumb" src="assets/img/fencing3.jpg" alt="Grey stone patio and wooden fencing - Evans Fencing" />
+                          <a href="/assets/img/fencing3.jpg">
+                            <img class="img-thumb" src="/assets/img/fencing3.jpg" alt="Grey stone patio and wooden fencing - Evans Fencing" />
                           </a>
                     </div>
                 <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="assets/img/fencing4.jpg">
-                            <img class="img-thumb" src="assets/img/fencing4.jpg" alt="Wooden fencing with trellis - Evans Fencing" />
+                          <a href="/assets/img/fencing4.jpg">
+                            <img class="img-thumb" src="/assets/img/fencing4.jpg" alt="Wooden fencing with trellis - Evans Fencing" />
                           </a>
                     </div>
                 <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="assets/img/gate.jpg">
-                            <img class="img-thumb" src="assets/img/gate.jpg" alt="Custom fitted wooden gate - Evans Fencing" />
+                          <a href="/assets/img/gate.jpg">
+                            <img class="img-thumb" src="/assets/img/gate.jpg" alt="Custom fitted wooden gate - Evans Fencing" />
                           </a>
                     </div>
                 <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="assets/img/gate2.jpg">
-                            <img class="img-thumb" src="assets/img/gate2.jpg" alt="Custom fitted double wooden gate - Evans Fencing" />
+                          <a href="/assets/img/gate2.jpg">
+                            <img class="img-thumb" src="/assets/img/gate2.jpg" alt="Custom fitted double wooden gate - Evans Fencing" />
                           </a>
                     </div>
                   <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="assets/img/wooden-cabin2.jpg">
-                            <img class="img-thumb" src="assets/img/wooden-cabin2.jpg" alt="Home studio with insulation - Evans Fencing" />
+                          <a href="/assets/img/wooden-cabin2.jpg">
+                            <img class="img-thumb" src="/assets/img/wooden-cabin2.jpg" alt="Home studio with insulation - Evans Fencing" />
                           </a>
                     </div>
                   <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="assets/img/wooden-cabin3.jpg">
-                            <img class="img-thumb" src="assets/img/wooden-cabin3.jpg" alt="Wooden outdoor structure - Evans Fencing" />
+                          <a href="/assets/img/wooden-cabin3.jpg">
+                            <img class="img-thumb" src="/assets/img/wooden-cabin3.jpg" alt="Wooden outdoor structure - Evans Fencing" />
                           </a>
                     </div>
                     <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="assets/img/gate5.jpg">
-                            <img class="img-thumb" src="assets/img/gate5.jpg" alt="Custom built and fitted wooden gate - Evans Fencing" />
+                          <a href="/assets/img/gate5.jpg">
+                            <img class="img-thumb" src="/assets/img/gate5.jpg" alt="Custom built and fitted wooden gate - Evans Fencing" />
                           </a>
                     </div>
                 <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="assets/img/gate6.jpg">
-                            <img class="img-thumb" src="assets/img/gate6.jpg" alt="Hand built wooden gate - Evans Fencing" />
+                          <a href="/assets/img/gate6.jpg">
+                            <img class="img-thumb" src="/assets/img/gate6.jpg" alt="Hand built wooden gate - Evans Fencing" />
                           </a>
                     </div>
                   <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="assets/img/fence9.jpg">
-                            <img class="img-thumb" src="assets/img/fence9.jpg" alt="Custom fencing of all sizes - Evans Fencing" />
+                          <a href="/assets/img/fence9.jpg">
+                            <img class="img-thumb" src="/assets/img/fence9.jpg" alt="Custom fencing of all sizes - Evans Fencing" />
                           </a>
                     </div>
                   <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="assets/img/gate7.jpg">
-                            <img class="img-thumb" src="assets/img/gate7.jpg" alt="Six foot fencing - Evans Fencing" />
+                          <a href="/assets/img/gate7.jpg">
+                            <img class="img-thumb" src="/assets/img/gate7.jpg" alt="Six foot fencing - Evans Fencing" />
                           </a>
                     </div>
   
@@ -380,87 +382,7 @@
             <div class="container px-4 px-lg-5">
                 <h2 class="text-white">Contact</h2>
             <div class="row gx-4 gx-lg-5">
-                      <!--  <div class="col-md-4 mb-3 mb-md-0">
-                        <div class="card py-4 h-100">
-                            <div class="card-body text-center">
-                                <i class="fab fa-wpforms text-primary mb-2"></i>
-                                <h4 class="text-uppercase m-0">Contact form</h4>
-                                <hr class="my-4 mx-auto" />
-                                <div class="small text-black-50"> <a href="#" data-toggle="modal" data-target="#myModal">
-    Submit a contact form
-  </a></div>-->
-                                <!-- The Modal -->
-  <!--<div class="modal" id="myModal">
-    <div class="modal-dialog">
-      <div class="modal-content"-->
-      
-        <!-- Modal Header -->
-        <!--<div class="modal-header">
-          <h4 class="modal-title">Contact us</h4>
-          <button type="button" class="close" data-dismiss="modal">&times;</button>
-        </div>-->
-        
-        <!-- Modal body -->
-        <!--<div class="modal-body">-->
-          <!--Contact Form-->
-        
-       <!-- <div class="container container-alignment" > 
-			<div class="row">
-				<div class="col-12">
-             
-              <form action="/assets/form/send.php" method="post" data-email-subject="Contact from Evans Fencing Website" data-show-errors="true" class="contactForm validateIt ct-u-paddingTop50">
-                <div class="row">
-                  <div class="col-sm-12">
-                    <div class="form-group ct-u-paddingBottom15 ct-showBg ct-js-input">
-                      <input type="text" name="field[]" placeholder="Name" required="" class="form-control input-sm input-typeFirst">
-                    </div>
-                  </div>
-                  <div class="col-sm-12">
-                    <div class="form-group ct-u-paddingBottom15 ct-showBg ct-js-input">
-                      <input type="email" name="field[]" placeholder="Email address" required="" class="form-control input-sm input-typeFirst">
-                    </div>
-                  </div>
-                  <div class="col-sm-12">
-                    <div class="form-group ct-u-paddingBottom15 ct-showBg ct-js-input">
-                      <input type="text" name="field[]" placeholder="Phone Number" required="" class="form-control input-sm input-typeFirst">
-                    </div>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-sm-12">
-                    <div class="form-group ct-u-paddingBottom15 ct-showBg ct-js-input">
-                      <textarea rows="10" name="field[]" placeholder="Message" class="form-control input-typeFirst"></textarea>
-                    </div>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-sm-12 text-center ct-u-paddingTop20">
-                    <button type="submit" class="btn btn-primary btn-sm btn-border btn-stretched">submit the form</button>
-                  </div>
-                </div>
-              </form>
-              <div style="display:none" class="successMessage alert alert-success ct-u-marginTop15">
-                <button type="button" data-dismiss="alert" aria-hidden="true" class="close">&times;</button>
-                <p>Thank You!</p>
-              </div>
-              <div style="display:none" class="errorMessage alert alert-danger ct-u-marginTop15">
-                <button type="button" data-dismiss="alert" aria-hidden="true" class="close">&times;</button>
-                <p>Oops! An error occured. Please try again.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-    
-            <p><a href="#" class="close form-close" data-dismiss="modal">Close form window</a></p>
-        </div>
-    
-        
-      </div>
-    </div>
-  </div>
-                            </div>
-                        </div>
-                    </div>-->
+                     
                     <div class="col-md-4 mb-3 mb-md-0">
                         <div class="card py-4 h-100">
                             <div class="card-body text-center">
