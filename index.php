@@ -310,7 +310,7 @@
             <div class="row">
                      <div class="col-sm-6 col-lg-3 image-gallery">
                           <a href="/assets/img/fencing.jpg">
-                            <img class="img-thumb" src="//assets/img/fencing.jpg" alt="Stained wooden fence - Evans Fencing" />
+                            <img class="img-thumb" src="/assets/img/fencing.jpg" alt="Stained wooden fence - Evans Fencing" />
                           </a>
                     </div>
                     <div class="col-sm-6 col-lg-3 image-gallery">
