@@ -109,8 +109,8 @@
                 <h2>Services</h2>
                   <!-- Featured Project Row-->
                                 <!-- Row 1-->
-                <!-- <div class="row gx-4 mb-5">
-                    <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/wooden-cabin.jpg" alt="Home studios installed by Evans Fencing" />
+                 <div class="row gx-4 mb-5">
+                   <!-- <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/wooden-cabin.jpg" alt="Home studios installed by Evans Fencing" />
                    
                         <div class="bg-white text-center project">
                             <div class="d-flex">
@@ -138,26 +138,7 @@
                   
                         
                         </div>
-                      <!-- <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/astro-turf.jpg" alt="Astro turf fitted by Evans Fencing" />
-                   
-                        <div class="bg-white text-center project">
-                            <div class="d-flex">
-                                <div class="featured-text-right project-text w-100 my-auto text-center text-lg-left">
-                                    <h4 class="text-black">Astro turf</h4>
-                                    <p class="mb-0 text-black-50">We provide and install any colour or style of astro turf to fit any sized area. </p>
-                                    <hr class="d-none d-lg-block mb-0 ms-0" />
-                                </div>
-                            </div>
-                            </div>
-                  
-                        
-                        </div> -->
-                  
-                    </div>
-                  <!-- Row 1 -->
-                     <!-- Row 2-->
-                <div class="row gx-4 mb-5">
-                    <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/garden-clearances.jpg" alt="Garden clearances by Evans Fencing" />
+                         <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/garden-clearances.jpg" alt="Garden clearances by Evans Fencing" />
                    
                         <div class="bg-white text-center project">
                             <div class="d-flex">
@@ -185,6 +166,26 @@
                   
                         
                         </div>
+                      <!-- <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/astro-turf.jpg" alt="Astro turf fitted by Evans Fencing" />
+                   
+                        <div class="bg-white text-center project">
+                            <div class="d-flex">
+                                <div class="featured-text-right project-text w-100 my-auto text-center text-lg-left">
+                                    <h4 class="text-black">Astro turf</h4>
+                                    <p class="mb-0 text-black-50">We provide and install any colour or style of astro turf to fit any sized area. </p>
+                                    <hr class="d-none d-lg-block mb-0 ms-0" />
+                                </div>
+                            </div>
+                            </div>
+                  
+                        
+                        </div> -->
+                  
+                    </div>
+                  <!-- Row 1 -->
+                     <!-- Row 2-->
+                <div class="row gx-4 mb-5">
+                   
                       <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/fencing6.jpg" alt="Bespoke decking by Evans Fencing" />
                    
                         <div class="bg-white text-center project">
