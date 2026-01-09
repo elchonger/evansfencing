@@ -200,12 +200,7 @@
                   
                         
                         </div>
-                  
-                    </div>
-                  <!-- Row 2 -->
-                            <!-- Row 3-->
-                <div class="row gx-4 mb-5">
-                    <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/digger.jpg" alt="Digger operated by Evans Fencing" />
+                         <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/digger.jpg" alt="Digger operated by Evans Fencing" />
                    
                         <div class="bg-white text-center project">
                             <div class="d-flex">
@@ -239,7 +234,13 @@
                   
                         
                         </div>
-                       <!-- <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/brick-work.jpg" alt="Secure fencing by Evans Fencing" />
+                  
+                    </div>
+                  <!-- Row 2 -->
+                            <!-- Row 3-->
+                <!-- <div class="row gx-4 mb-5">
+                   
+                       <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/brick-work.jpg" alt="Secure fencing by Evans Fencing" />
                    
                         <div class="bg-white text-center project">
                             <div class="d-flex">
@@ -254,10 +255,10 @@
                             </div>
                   
                         
-                        </div> -->
+                        </div>
                       
                   
-                    </div>
+                    </div> -->
                  
                  
                
