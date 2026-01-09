@@ -7,15 +7,15 @@
         <meta name="description" content="Family owned business with a wealth of knowledge and experience in all aspects of landscaping." />
         <meta property="og:title" content="Evans Fencing - Skilled, experienced outdoor specialists operating in Kent.">
         <meta property="og:description" content="Family owned business with a wealth of knowledge and experience in all aspects of landscaping.">
-        <meta property="og:image" content="https://evansfencing.uk/assets/img/fencing8.jpg">
+        <meta property="og:image" content="https://evansfencing.uk/assets/img/fencing8.webp">
         <meta property="og:url" content="https://evansfencing.uk/">
         <meta name="twitter:title" content="Evans Fencing - Skilled, experienced outdoor specialists operating in Kent.">
         <meta name="twitter:description" content="Family owned business with a wealth of knowledge and experience in all aspects of landscaping.">
-        <meta name="twitter:image" content="https://evansfencing.uk/assets/img/fencing8.jpg">
+        <meta name="twitter:image" content="https://evansfencing.uk/assets/img/fencing8.webp">
         <meta name="twitter:card" content="summary_large_image">
         
         <title>Evans Fencing - Skilled, experienced outdoor specialists operating in Kent.</title>
-        <link rel="shortcut icon" type="image/jpg" href="favicon.jpg"/>
+        <link rel="shortcut icon" type="image/jpg" href="favicon.webp"/>
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" crossorigin="anonymous"></script>
         <!-- Google fonts-->
@@ -110,7 +110,7 @@
                   <!-- Featured Project Row-->
                                 <!-- Row 1-->
                  <div class="row gx-4 mb-5">
-                   <!-- <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/wooden-cabin.jpg" alt="Home studios installed by Evans Fencing" />
+                   <!-- <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/wooden-cabin.webp" alt="Home studios installed by Evans Fencing" />
                    
                         <div class="bg-white text-center project">
                             <div class="d-flex">
@@ -124,7 +124,7 @@
                   
                         
                         </div> -->
-                      <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/fencing5.jpg" alt="Custom fencing and gates by Evans Fencing" />
+                      <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/fencing5.webp" alt="Custom fencing and gates by Evans Fencing" />
                         <div class="bg-white text-center project">
                             <div class="d-flex">
                                 <div class="featured-text-right project-text w-100 my-auto text-center text-lg-left">
@@ -135,7 +135,7 @@
                             </div>
                             </div>
                         </div>
-                         <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/garden-clearances.jpg" alt="Garden clearances by Evans Fencing" />
+                         <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/garden-clearances.webp" alt="Garden clearances by Evans Fencing" />
                    
                         <div class="bg-white text-center project">
                             <div class="d-flex">
@@ -147,7 +147,7 @@
                             </div>
                             </div>
                      </div>
-                      <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/driveway2.jpg" alt="Expertly installed drivways by Evans Fencing" />
+                      <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/driveway2.webp" alt="Expertly installed drivways by Evans Fencing" />
                    
                         <div class="bg-white text-center project">
                             <div class="d-flex">
@@ -159,7 +159,7 @@
                             </div>
                             </div>
                         </div>
-                      <!-- <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/astro-turf.jpg" alt="Astro turf fitted by Evans Fencing" />
+                      <!-- <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/astro-turf.webp" alt="Astro turf fitted by Evans Fencing" />
                    
                         <div class="bg-white text-center project">
                             <div class="d-flex">
@@ -179,7 +179,7 @@
                      <!-- Row 2-->
                 <div class="row gx-4 mb-5">
                    
-                      <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/fencing6.jpg" alt="Bespoke decking by Evans Fencing" />
+                      <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/fencing6.webp" alt="Bespoke decking by Evans Fencing" />
                             <div class="bg-white text-center project">
                                 <div class="d-flex">
                                     <div class="featured-text-right project-text w-100 my-auto text-center text-lg-left">
@@ -190,7 +190,7 @@
                                 </div>
                             </div>
                         </div>
-                         <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/digger.jpg" alt="Digger operated by Evans Fencing" />
+                         <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/digger.webp" alt="Digger operated by Evans Fencing" />
                             <div class="bg-white text-center project">
                                 <div class="d-flex">
                                     <div class="featured-text-right project-text w-100 my-auto text-center text-lg-left">
@@ -203,7 +203,7 @@
                                 </div>
                             </div>
                          </div>
-                        <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/secure-fencing.jpg" alt="Secure fencing by Evans Fencing" />
+                        <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/secure-fencing.webp" alt="Secure fencing by Evans Fencing" />
                         <div class="bg-white text-center project">
                             <div class="d-flex">
                                 <div class="featured-text-right project-text w-100 my-auto text-center text-lg-left">
@@ -222,7 +222,7 @@
                             <!-- Row 3-->
                 <!-- <div class="row gx-4 mb-5">
                    
-                       <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/brick-work.jpg" alt="Secure fencing by Evans Fencing" />
+                       <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/brick-work.webp" alt="Secure fencing by Evans Fencing" />
                    
                         <div class="bg-white text-center project">
                             <div class="d-flex">
@@ -293,63 +293,63 @@
            <div id="links">
             <div class="row">
                      <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="/assets/img/fencing.jpg">
-                            <img class="img-thumb" src="/assets/img/fencing.jpg" alt="Stained wooden fence - Evans Fencing" />
+                          <a href="/assets/img/fencing.webp">
+                            <img class="img-thumb" src="/assets/img/fencing.webp" alt="Stained wooden fence - Evans Fencing" />
                           </a>
                     </div>
                     <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="/assets/img/fencing2.jpg">
-                            <img class="img-thumb" src="/assets/img/fencing2.jpg" alt="Six foot wooden fence with concreate board - Evans Fencing" />
+                          <a href="/assets/img/fencing2.webp">
+                            <img class="img-thumb" src="/assets/img/fencing2.webp" alt="Six foot wooden fence with concreate board - Evans Fencing" />
                           </a>
                     </div>
                 <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="/assets/img/fencing3.jpg">
-                            <img class="img-thumb" src="/assets/img/fencing3.jpg" alt="Grey stone patio and wooden fencing - Evans Fencing" />
+                          <a href="/assets/img/fencing3.webp">
+                            <img class="img-thumb" src="/assets/img/fencing3.webp" alt="Grey stone patio and wooden fencing - Evans Fencing" />
                           </a>
                     </div>
                 <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="/assets/img/fencing4.jpg">
-                            <img class="img-thumb" src="/assets/img/fencing4.jpg" alt="Wooden fencing with trellis - Evans Fencing" />
+                          <a href="/assets/img/fencing4.webp">
+                            <img class="img-thumb" src="/assets/img/fencing4.webp" alt="Wooden fencing with trellis - Evans Fencing" />
                           </a>
                     </div>
                 <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="/assets/img/gate.jpg">
-                            <img class="img-thumb" src="/assets/img/gate.jpg" alt="Custom fitted wooden gate - Evans Fencing" />
+                          <a href="/assets/img/gate.webp">
+                            <img class="img-thumb" src="/assets/img/gate.webp" alt="Custom fitted wooden gate - Evans Fencing" />
                           </a>
                     </div>
                 <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="/assets/img/gate2.jpg">
-                            <img class="img-thumb" src="/assets/img/gate2.jpg" alt="Custom fitted double wooden gate - Evans Fencing" />
+                          <a href="/assets/img/gate2.webp">
+                            <img class="img-thumb" src="/assets/img/gate2.webp" alt="Custom fitted double wooden gate - Evans Fencing" />
                           </a>
                     </div>
                   <!-- <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="/assets/img/wooden-cabin2.jpg">
-                            <img class="img-thumb" src="/assets/img/wooden-cabin2.jpg" alt="Home studio with insulation - Evans Fencing" />
+                          <a href="/assets/img/wooden-cabin2.webp">
+                            <img class="img-thumb" src="/assets/img/wooden-cabin2.webp" alt="Home studio with insulation - Evans Fencing" />
                           </a>
                     </div> -->
                   <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="/assets/img/wooden-cabin3.jpg">
-                            <img class="img-thumb" src="/assets/img/wooden-cabin3.jpg" alt="Wooden outdoor structure - Evans Fencing" />
+                          <a href="/assets/img/wooden-cabin3.webp">
+                            <img class="img-thumb" src="/assets/img/wooden-cabin3.webp" alt="Wooden outdoor structure - Evans Fencing" />
                           </a>
                     </div>
                     <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="/assets/img/gate5.jpg">
-                            <img class="img-thumb" src="/assets/img/gate5.jpg" alt="Custom built and fitted wooden gate - Evans Fencing" />
+                          <a href="/assets/img/gate5.webp">
+                            <img class="img-thumb" src="/assets/img/gate5.webp" alt="Custom built and fitted wooden gate - Evans Fencing" />
                           </a>
                     </div>
                 <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="/assets/img/gate6.jpg">
-                            <img class="img-thumb" src="/assets/img/gate6.jpg" alt="Hand built wooden gate - Evans Fencing" />
+                          <a href="/assets/img/gate6.webp">
+                            <img class="img-thumb" src="/assets/img/gate6.webp" alt="Hand built wooden gate - Evans Fencing" />
                           </a>
                     </div>
                   <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="/assets/img/fence9.jpg">
-                            <img class="img-thumb" src="/assets/img/fence9.jpg" alt="Custom fencing of all sizes - Evans Fencing" />
+                          <a href="/assets/img/fence9.webp">
+                            <img class="img-thumb" src="/assets/img/fence9.webp" alt="Custom fencing of all sizes - Evans Fencing" />
                           </a>
                     </div>
                   <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="/assets/img/gate7.jpg">
-                            <img class="img-thumb" src="/assets/img/gate7.jpg" alt="Six foot fencing - Evans Fencing" />
+                          <a href="/assets/img/gate7.webp">
+                            <img class="img-thumb" src="/assets/img/gate7.webp" alt="Six foot fencing - Evans Fencing" />
                           </a>
                     </div>
                    <div class="col-sm-6 col-lg-3 image-gallery">
