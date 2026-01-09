@@ -109,7 +109,7 @@
                 <h2>Services</h2>
                   <!-- Featured Project Row-->
                                 <!-- Row 1-->
-                <div class="row gx-4 mb-5">
+                <!-- <div class="row gx-4 mb-5">
                     <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/wooden-cabin.jpg" alt="Home studios installed by Evans Fencing" />
                    
                         <div class="bg-white text-center project">
@@ -123,7 +123,7 @@
                             </div>
                   
                         
-                        </div>
+                        </div> -->
                       <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/fencing5.jpg" alt="Custom fencing and gates by Evans Fencing" />
                    
                         <div class="bg-white text-center project">
@@ -138,7 +138,7 @@
                   
                         
                         </div>
-                      <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/astro-turf.jpg" alt="Astro turf fitted by Evans Fencing" />
+                      <!-- <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/astro-turf.jpg" alt="Astro turf fitted by Evans Fencing" />
                    
                         <div class="bg-white text-center project">
                             <div class="d-flex">
@@ -151,7 +151,7 @@
                             </div>
                   
                         
-                        </div>
+                        </div> -->
                   
                     </div>
                   <!-- Row 1 -->
@@ -238,7 +238,7 @@
                   
                         
                         </div>
-                       <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/brick-work.jpg" alt="Secure fencing by Evans Fencing" />
+                       <!-- <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/brick-work.jpg" alt="Secure fencing by Evans Fencing" />
                    
                         <div class="bg-white text-center project">
                             <div class="d-flex">
@@ -253,7 +253,7 @@
                             </div>
                   
                         
-                        </div>
+                        </div> -->
                       
                   
                     </div>
@@ -338,11 +338,11 @@
                             <img class="img-thumb" src="/assets/img/gate2.jpg" alt="Custom fitted double wooden gate - Evans Fencing" />
                           </a>
                     </div>
-                  <div class="col-sm-6 col-lg-3 image-gallery">
+                  <!-- <div class="col-sm-6 col-lg-3 image-gallery">
                           <a href="/assets/img/wooden-cabin2.jpg">
                             <img class="img-thumb" src="/assets/img/wooden-cabin2.jpg" alt="Home studio with insulation - Evans Fencing" />
                           </a>
-                    </div>
+                    </div> -->
                   <div class="col-sm-6 col-lg-3 image-gallery">
                           <a href="/assets/img/wooden-cabin3.jpg">
                             <img class="img-thumb" src="/assets/img/wooden-cabin3.jpg" alt="Wooden outdoor structure - Evans Fencing" />
