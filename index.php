@@ -125,7 +125,6 @@
                         
                         </div> -->
                       <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/fencing5.jpg" alt="Custom fencing and gates by Evans Fencing" />
-                   
                         <div class="bg-white text-center project">
                             <div class="d-flex">
                                 <div class="featured-text-right project-text w-100 my-auto text-center text-lg-left">
@@ -135,8 +134,6 @@
                                 </div>
                             </div>
                             </div>
-                  
-                        
                         </div>
                          <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/garden-clearances.jpg" alt="Garden clearances by Evans Fencing" />
                    
@@ -149,9 +146,7 @@
                                 </div>
                             </div>
                             </div>
-                  
-                        
-                        </div>
+                     </div>
                       <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/driveway2.jpg" alt="Expertly installed drivways by Evans Fencing" />
                    
                         <div class="bg-white text-center project">
@@ -163,8 +158,6 @@
                                 </div>
                             </div>
                             </div>
-                  
-                        
                         </div>
                       <!-- <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/astro-turf.jpg" alt="Astro turf fitted by Evans Fencing" />
                    
@@ -187,39 +180,30 @@
                 <div class="row gx-4 mb-5">
                    
                       <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/fencing6.jpg" alt="Bespoke decking by Evans Fencing" />
-                   
-                        <div class="bg-white text-center project">
-                            <div class="d-flex">
-                                <div class="featured-text-right project-text w-100 my-auto text-center text-lg-left">
-                                    <h4 class="text-black">Decking</h4>
-                                    <p class="mb-0 text-black-50">We provide the experience and expertise to install any size of decking for any outdoor area.</p>
-                                    <hr class="d-none d-lg-block mb-0 ms-0" />
+                            <div class="bg-white text-center project">
+                                <div class="d-flex">
+                                    <div class="featured-text-right project-text w-100 my-auto text-center text-lg-left">
+                                        <h4 class="text-black">Decking</h4>
+                                        <p class="mb-0 text-black-50">We provide the experience and expertise to install any size of decking for any outdoor area.</p>
+                                        <hr class="d-none d-lg-block mb-0 ms-0" />
+                                    </div>
                                 </div>
                             </div>
-                            </div>
-                  
-                        
                         </div>
                          <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/digger.jpg" alt="Digger operated by Evans Fencing" />
-                   
-                        <div class="bg-white text-center project">
-                            <div class="d-flex">
-                                <div class="featured-text-right project-text w-100 my-auto text-center text-lg-left">
-                                    <h4 class="text-black">Ground work</h4>
-                                    <p class="mb-0 text-black-50">
-                                        All types of ground work undertaken, from foundations to garden leveling. Man and machine hire is also available.
-                                       </p>
-                                    <hr class="d-none d-lg-block mb-0 ms-0" />
+                            <div class="bg-white text-center project">
+                                <div class="d-flex">
+                                    <div class="featured-text-right project-text w-100 my-auto text-center text-lg-left">
+                                        <h4 class="text-black">Ground work</h4>
+                                        <p class="mb-0 text-black-50">
+                                            All types of ground work undertaken, from foundations to garden leveling. Man and machine hire is also available.
+                                        </p>
+                                        <hr class="d-none d-lg-block mb-0 ms-0" />
+                                    </div>
                                 </div>
                             </div>
-                            </div>
-                  
-                        
-                        </div>
-                      
-                 
-                    <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/secure-fencing.jpg" alt="Secure fencing by Evans Fencing" />
-                   
+                         </div>
+                        <div class="col-lg-4 service-box"><img class="img-fluid services" src="/assets/img/secure-fencing.jpg" alt="Secure fencing by Evans Fencing" />
                         <div class="bg-white text-center project">
                             <div class="d-flex">
                                 <div class="featured-text-right project-text w-100 my-auto text-center text-lg-left">
@@ -230,10 +214,8 @@
                                     <hr class="d-none d-lg-block mb-0 ms-0" />
                                 </div>
                             </div>
-                            </div>
-                  
-                        
                         </div>
+                    </div>
                   
                     </div>
                   <!-- Row 2 -->
@@ -368,6 +350,31 @@
                   <div class="col-sm-6 col-lg-3 image-gallery">
                           <a href="/assets/img/gate7.jpg">
                             <img class="img-thumb" src="/assets/img/gate7.jpg" alt="Six foot fencing - Evans Fencing" />
+                          </a>
+                    </div>
+                   <div class="col-sm-6 col-lg-3 image-gallery">
+                          <a href="/assets/img/gate-and-fence-panel.webp">
+                            <img class="img-thumb" src="/assets/img/gate-and-fence-panel.webp" alt="Driveway gate with fence paneling - Evans Fencing" />
+                          </a>
+                    </div>
+                     <div class="col-sm-6 col-lg-3 image-gallery">
+                          <a href="/assets/img/side-passage-gate.webp">
+                            <img class="img-thumb" src="/assets/img/side-passage-gate.webp" alt="Bespoke side passage gate - Evans Fencing" />
+                          </a>
+                    </div>
+                     <div class="col-sm-6 col-lg-3 image-gallery">
+                          <a href="/assets/img/sidegate.webp">
+                            <img class="img-thumb" src="/assets/img/sidegate.webp" alt="Six foot side gate - Evans Fencing" />
+                          </a>
+                    </div>
+                     <div class="col-sm-6 col-lg-3 image-gallery">
+                          <a href="/assets/img/fencing-panel-and-trellis.webp">
+                            <img class="img-thumb" src="/assets/img/fencing-panel-and-trellis.webp" alt="Six foot fencing with trellis - Evans Fencing" />
+                          </a>
+                    </div>
+                     <div class="col-sm-6 col-lg-3 image-gallery">
+                          <a href="/assets/img/six-foot-fence-with-gravel-board.webp">
+                            <img class="img-thumb" src="/assets/img/six-foot-fence-with-gravel-board.webp" alt="Six foot fencing with gravel board- Evans Fencing" />
                           </a>
                     </div>
   
